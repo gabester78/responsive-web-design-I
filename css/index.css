@@ -133,8 +133,6 @@ nav a:hover{
 	text-align: center;
 }
 
-
-
 .hero .cta:hover{
 	background-color:lightblue;
 	color:white;
@@ -281,4 +279,21 @@ h3{
     .hero h1{
         margin:0px;
     }
+
+    .hero .cta{
+        margin:30px 0px 30px 0px;
+    }
+
+    .middle-img{
+        width:100%;
+    }
+
+    .top2{
+        margin:50px 0px 50px 15px;
+    }
+
+    .bottom2{
+        margin:50px 0px 50px 15px;
+    }
+    
 }
